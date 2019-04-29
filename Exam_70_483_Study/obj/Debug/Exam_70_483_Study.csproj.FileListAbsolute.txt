@@ -1,0 +1,7 @@
+C:\Users\frankg\source\repos\Exam_70_483_Study\Exam_70_483_Study\bin\Debug\Exam_70_483_Study.exe.config
+C:\Users\frankg\source\repos\Exam_70_483_Study\Exam_70_483_Study\bin\Debug\Exam_70_483_Study.exe
+C:\Users\frankg\source\repos\Exam_70_483_Study\Exam_70_483_Study\bin\Debug\Exam_70_483_Study.pdb
+C:\Users\frankg\source\repos\Exam_70_483_Study\Exam_70_483_Study\obj\Debug\Exam_70_483_Study.csproj.CoreCompileInputs.cache
+C:\Users\frankg\source\repos\Exam_70_483_Study\Exam_70_483_Study\obj\Debug\Exam_70_483_Study.exe
+C:\Users\frankg\source\repos\Exam_70_483_Study\Exam_70_483_Study\obj\Debug\Exam_70_483_Study.pdb
+C:\Users\frankg\source\repos\Exam_70_483_Study\Exam_70_483_Study\obj\Debug\Exam_70_483_Study.csprojAssemblyReference.cache
